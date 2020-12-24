@@ -1,4 +1,4 @@
->>> def search(b):
+def search(b):
     global d
     global rlt
     for m in d[b]:
